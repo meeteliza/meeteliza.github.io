@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meeteliza.github.io</id>
     <title>Meet Eliza</title>
-    <updated>2021-01-05T09:54:47.070Z</updated>
+    <updated>2021-01-05T09:57:20.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://meeteliza.github.io"/>
     <link rel="self" href="https://meeteliza.github.io/atom.xml"/>
@@ -16,12 +16,14 @@
         <link href="https://meeteliza.github.io/post/hexo-instruction/">
         </link>
         <updated>2021-01-05T09:49:31.000Z</updated>
+        <summary type="html"><![CDATA[<p>以下都是用visual studio code写出来的，这里存档一下以前的尝试，就不修改了。</p>
+]]></summary>
         <content type="html"><![CDATA[<p>以下都是用visual studio code写出来的，这里存档一下以前的尝试，就不修改了。</p>
-<hr>
-<h2 id="title-hexo-instructiondate-2020-11-12-215644tags-instructions">title: Hexo Instruction<br>
+<!-- more -->
+<p>title: Hexo Instruction<br>
 date: 2020-11-12 21:56:44<br>
-tags: Instructions</h2>
-<p>This article only deals with how to handle daily operation like creating a new blog, managing the homepage, and uploading the static page onto Github. More information click <a href="https://youtu.be/e41xmS3KAG0">installation</a> or <a href="https://youtu.be/tEFKJeAtGqk">operation</a>.</p>
+tags: Instructions<br>
+This article only deals with how to handle daily operation like creating a new blog, managing the homepage, and uploading the static page onto Github. More information click <a href="https://youtu.be/e41xmS3KAG0">installation</a> or <a href="https://youtu.be/tEFKJeAtGqk">operation</a>.</p>
 <h3 id="open-the-local-website">Open the local website</h3>
 <p>Open Terminal, and type in:</p>
 <pre><code class="language-bash">$ cd desktop
