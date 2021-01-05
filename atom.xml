@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meeteliza.github.io</id>
     <title>Gridea</title>
-    <updated>2021-01-05T08:54:40.561Z</updated>
+    <updated>2021-01-05T09:09:49.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://meeteliza.github.io"/>
     <link rel="self" href="https://meeteliza.github.io/atom.xml"/>
@@ -19,38 +19,6 @@
         <content type="html"><![CDATA[<p>去年六月份开始学创建个人网站，下半年因为要准备考研所以暂时搁置了。github pages + hexo这一条路对没有编程基础的人实在不太友好，因为不理解git是怎么运作的，第一次用hexo建好本地网站，链接到github上之后，九月份我想更新一下，就又得从零开始，git init、hexo server、hexo g都按教程做好了，但是本地到漫游这一步又不知道哪里出了问题。今天本来打算删掉之前的仓库，重新从零开始再搭一遍，幸好偶然发现了gridea～，再也不用打开终端了～</p>
 <p>目前的想法是写写总结，比如我喜欢乱开一些新坑，不记录的话下一次就又得从头捡起。然后还可以写议论文，我一开始就是想为考研训练自己议论文写作来着，网上找的观点，要么是用于debate的，比较口语化，要么是观点跟当前环境脱节，而且我也没办法采用我自己不赞同的观点，就想说可以自己写，或者整理一些我认可的观点，做成一个可读性比较强coherent的文章。还比较想做的就是专业学科mind map的搭建。很多课都挺有意思的，但是往往学过就忘了，笔记本找起来也麻烦，但是写在网站上就不同了，自己还会经常翻一翻，便于查阅。当然也不限于自己的专业学科，一些common knowledge也同理。</p>
 <p>2021年1月5日先更到这，我去把上次hexo写的总结搬过来，开始愉快布置自己的网站，加油⛽️</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://meeteliza.github.io/post/hello-gridea/</id>
-        <link href="https://meeteliza.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
