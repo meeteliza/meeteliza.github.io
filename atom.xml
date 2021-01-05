@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meeteliza.github.io</id>
     <title>Meet Eliza</title>
-    <updated>2021-01-05T09:52:06.959Z</updated>
+    <updated>2021-01-05T09:54:47.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://meeteliza.github.io"/>
     <link rel="self" href="https://meeteliza.github.io/atom.xml"/>
@@ -45,12 +45,16 @@ tags: Instructions</h2>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[开站记录]]></title>
+        <title type="html"><![CDATA[网页记录一]]></title>
         <id>https://meeteliza.github.io/post/kai-zhan-ji-lu/</id>
         <link href="https://meeteliza.github.io/post/kai-zhan-ji-lu/">
         </link>
         <updated>2021-01-05T08:34:22.000Z</updated>
-        <content type="html"><![CDATA[<p>去年六月份开始学创建个人网站，下半年因为要准备考研所以暂时搁置了。github pages + hexo这一条路对没有编程基础的人实在不太友好，因为不理解git是怎么运作的，第一次用hexo建好本地网站，链接到github上之后，九月份我想更新一下，就又得从零开始，git init、hexo server、hexo g都按教程做好了，但是本地到漫游这一步又不知道哪里出了问题。今天本来打算删掉之前的仓库，重新从零开始再搭一遍，幸好偶然发现了gridea～，再也不用打开终端了～</p>
+        <summary type="html"><![CDATA[<p>关于最初的尝试，和网页内容的构想</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>关于最初的尝试，和网页内容的构想</p>
+<!-- more -->
+<p>去年六月份开始学创建个人网站，下半年因为要准备考研所以暂时搁置了。github pages + hexo这一条路对没有编程基础的人实在不太友好，因为不理解git是怎么运作的，第一次用hexo建好本地网站，链接到github上之后，九月份我想更新一下，就又得从零开始，git init、hexo server、hexo g都按教程做好了，但是本地到漫游这一步又不知道哪里出了问题。今天本来打算删掉之前的仓库，重新从零开始再搭一遍，幸好偶然发现了gridea～，再也不用打开终端了～</p>
 <p>目前的想法是写写总结，比如我喜欢乱开一些新坑，不记录的话下一次就又得从头捡起。然后还可以写议论文，我一开始就是想为考研训练自己议论文写作来着，网上找的观点，要么是用于debate的，比较口语化，要么是观点跟当前环境脱节，而且我也没办法采用我自己不赞同的观点，就想说可以自己写，或者整理一些我认可的观点，做成一个可读性比较强coherent的文章。还比较想做的就是专业学科mind map的搭建。很多课都挺有意思的，但是往往学过就忘了，笔记本找起来也麻烦，但是写在网站上就不同了，自己还会经常翻一翻，便于查阅。当然也不限于自己的专业学科，一些common knowledge也同理。</p>
 <p>2021年1月5日先更到这，我去把上次hexo写的总结搬过来，开始愉快布置自己的网站，加油⛽️</p>
 ]]></content>
