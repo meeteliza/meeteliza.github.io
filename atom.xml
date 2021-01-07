@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meeteliza.github.io</id>
     <title>Meet Eliza</title>
-    <updated>2021-01-07T09:11:55.889Z</updated>
+    <updated>2021-01-07T09:32:57.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://meeteliza.github.io"/>
     <link rel="self" href="https://meeteliza.github.io/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://meeteliza.github.io/images/avatar.png</logo>
     <icon>https://meeteliza.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Meet Eliza</rights>
+    <entry>
+        <title type="html"><![CDATA[栏目安排]]></title>
+        <id>https://meeteliza.github.io/post/lan-mu-an-pai/</id>
+        <link href="https://meeteliza.github.io/post/lan-mu-an-pai/">
+        </link>
+        <updated>2021-01-07T09:30:26.000Z</updated>
+        <content type="html"><![CDATA[<p>News briefing：一般是原封不动搬运新闻，速记能力+语言积累</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020 Election]]></title>
+        <id>https://meeteliza.github.io/post/2020-election/</id>
+        <link href="https://meeteliza.github.io/post/2020-election/">
+        </link>
+        <updated>2021-01-07T09:28:12.000Z</updated>
+        <content type="html"><![CDATA[<p>这一篇回顾2020美国大选经过</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[News briefing: US Congress seals Biden's election victory after chaotic day in Washington]]></title>
+        <id>https://meeteliza.github.io/post/news-briefing-us-congress-seals-bidens-election-victory-after-chaotic-day-in-washington/</id>
+        <link href="https://meeteliza.github.io/post/news-briefing-us-congress-seals-bidens-election-victory-after-chaotic-day-in-washington/">
+        </link>
+        <updated>2021-01-07T09:12:23.000Z</updated>
+        <content type="html"><![CDATA[<p>Retrieved from Global News. Written by Sean Boynton. January 7, 2021.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DesignSeeds色卡配色]]></title>
         <id>https://meeteliza.github.io/post/pei-se/</id>
