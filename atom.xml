@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meeteliza.github.io</id>
     <title>Meet Eliza</title>
-    <updated>2021-01-07T09:32:57.858Z</updated>
+    <updated>2021-01-07T11:59:43.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://meeteliza.github.io"/>
     <link rel="self" href="https://meeteliza.github.io/atom.xml"/>
@@ -11,12 +11,47 @@
     <icon>https://meeteliza.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Meet Eliza</rights>
     <entry>
+        <title type="html"><![CDATA[学习进度1.7-1.17]]></title>
+        <id>https://meeteliza.github.io/post/xue-xi-jin-du-17-117/</id>
+        <link href="https://meeteliza.github.io/post/xue-xi-jin-du-17-117/">
+        </link>
+        <updated>2021-01-07T09:33:23.000Z</updated>
+        <content type="html"><![CDATA[<p>本期需要完成一下几个任务</p>
+<ul>
+<li>口译journal</li>
+<li>双学位论文定题
+<ul>
+<li>写邮件✅</li>
+<li>确定</li>
+</ul>
+</li>
+<li>国际组织学期
+<ul>
+<li>论文、</li>
+<li>proposal、</li>
+<li>ppt✅</li>
+</ul>
+</li>
+<li>经济外交学期论文</li>
+<li>学位论文第一次讨论
+<ul>
+<li>确定时间✅</li>
+<li>讨论准备</li>
+<li>讨论</li>
+</ul>
+</li>
+<li>东亚政治学习</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[栏目安排]]></title>
         <id>https://meeteliza.github.io/post/lan-mu-an-pai/</id>
         <link href="https://meeteliza.github.io/post/lan-mu-an-pai/">
         </link>
         <updated>2021-01-07T09:30:26.000Z</updated>
-        <content type="html"><![CDATA[<p>News briefing：一般是原封不动搬运新闻，速记能力+语言积累</p>
+        <content type="html"><![CDATA[<p>News briefing：一般是原封不动搬运新闻，速记能力+语言积累<br>
+学习记录：任务安排、日常打卡记录</p>
 ]]></content>
     </entry>
     <entry>
@@ -34,7 +69,15 @@
         <link href="https://meeteliza.github.io/post/news-briefing-us-congress-seals-bidens-election-victory-after-chaotic-day-in-washington/">
         </link>
         <updated>2021-01-07T09:12:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>Retrieved from Global News. Written by Sean Boynton. January 7, 2021.</p>
+]]></summary>
         <content type="html"><![CDATA[<p>Retrieved from Global News. Written by Sean Boynton. January 7, 2021.</p>
+<!-- more -->
+<p>The US Congress finally affirmed President-elect Joe Biden's election victory early Thursday, after an Electoral Colledge vote count that was interrupted by both Republican objections and supporters of President Donald Trump who violently seiged the Capitol.</p>
+<p>Vice-President Mike Pence declared Biden and vice-president-elect Kamala Harris the winners of November's election, <strong>putting the final nail in the coffin for Trump's hopes</strong> that the results could be overturned, either by Pence or Republican lawmakers.</p>
+<p>Those hopes had helped lead supporters to storm the Capitol building Wednesday, interrupting the vote count and debates resulting from Republican efforts to strike down the results of battleground states. Four people were killed over the course of the riot, which forced lawmakers to shelter in their offices and the House chamber for hours.</p>
+<p><em>final nail in the coffin: An event, decision, action, etc., that seals, confirms, or ultimately leads to the failure of a situation or event that has already begun to fail.</em><br>
+<img src="https://meeteliza.github.io/post-images/1610014407033.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
