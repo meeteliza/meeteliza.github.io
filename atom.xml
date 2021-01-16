@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meeteliza.github.io</id>
     <title>Meet Eliza</title>
-    <updated>2021-01-07T13:58:07.941Z</updated>
+    <updated>2021-01-16T09:44:50.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://meeteliza.github.io"/>
     <link rel="self" href="https://meeteliza.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://meeteliza.github.io/images/avatar.png</logo>
     <icon>https://meeteliza.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Meet Eliza</rights>
+    <entry>
+        <title type="html"><![CDATA[AE脚本/插件]]></title>
+        <id>https://meeteliza.github.io/post/ae-jiao-ben-cha-jian/</id>
+        <link href="https://meeteliza.github.io/post/ae-jiao-ben-cha-jian/">
+        </link>
+        <updated>2021-01-08T10:56:47.000Z</updated>
+        <content type="html"><![CDATA[<p>今天新安装了</p>
+<ul>
+<li>motion 3</li>
+<li>autofill</li>
+<li>super morphings变形</li>
+<li>big pack矢量元素包</li>
+<li>Ray快速调色工具</li>
+<li>text animation直接在效果里面添加</li>
+<li>ae渲染插件，不用跳转AME了</li>
+</ul>
+<p>待安装matte tool，可以自动扣去背景<br>
+过几天试试效果</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习进度1.7-1.17]]></title>
         <id>https://meeteliza.github.io/post/xue-xi-jin-du-17-117/</id>
@@ -22,13 +42,15 @@
 <li>双学位论文定题
 <ul>
 <li>写邮件✅</li>
-<li>确定</li>
+<li>确定✅</li>
+<li>上交✅</li>
+<li>提纲✅</li>
 </ul>
 </li>
 <li>国际组织学期
 <ul>
-<li>论文、</li>
-<li>proposal、</li>
+<li>论文✅</li>
+<li>proposal✅</li>
 <li>ppt✅</li>
 </ul>
 </li>
@@ -36,8 +58,8 @@
 <li>学位论文第一次讨论
 <ul>
 <li>确定时间✅</li>
-<li>讨论准备</li>
-<li>讨论</li>
+<li>讨论准备✅</li>
+<li>讨论✅</li>
 </ul>
 </li>
 <li>东亚政治学习</li>
