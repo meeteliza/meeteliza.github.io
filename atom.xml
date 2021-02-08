@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meeteliza.github.io</id>
     <title>Meet Eliza</title>
-    <updated>2021-01-16T09:44:50.307Z</updated>
+    <updated>2021-02-08T10:32:51.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://meeteliza.github.io"/>
     <link rel="self" href="https://meeteliza.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://meeteliza.github.io/images/avatar.png</logo>
     <icon>https://meeteliza.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Meet Eliza</rights>
+    <entry>
+        <title type="html"><![CDATA[歌词mv制作记录]]></title>
+        <id>https://meeteliza.github.io/post/ge-ci-mv-zhi-zuo-ji-lu/</id>
+        <link href="https://meeteliza.github.io/post/ge-ci-mv-zhi-zuo-ji-lu/">
+        </link>
+        <updated>2021-02-08T10:31:13.000Z</updated>
+        <content type="html"><![CDATA[<p>2021.2.8 18:00 开始抠图<img src="https://meeteliza.github.io/post-images/1612780355235.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AE脚本/插件]]></title>
         <id>https://meeteliza.github.io/post/ae-jiao-ben-cha-jian/</id>
